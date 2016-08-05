@@ -1,3 +1,5 @@
+Lecture: \\10.6.17.240\Training Materials\EPAM Trainings\JavaScript_Functions
+\\10.6.17.240\Training Materials\EPAM Trainings\AngularJS_byVZ\01_AngularJS_for_Novice
 Setup Environment
 
 1. install node.js from https://nodejs.org/en/
